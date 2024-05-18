@@ -5,20 +5,51 @@
     {
       "AbsoluteMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|d:\\github\\calculadoramatematicas\\calculadoramatematicas\\calculadoramatematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|solutionrelative:calculadoramatematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|d:\\github\\calculadoramatematicas\\calculadoramatematicas\\calculadoramatematicas\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|solutionrelative:calculadoramatematicas\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 397,
+          "DockedWidth": 214,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Suma.cs",
+              "RelativeDocumentMoniker": "CalculadoraMatematicas\\Suma.cs",
+              "ToolTip": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Suma.cs",
+              "RelativeToolTip": "CalculadoraMatematicas\\Suma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:18:38.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -28,24 +59,10 @@
               "RelativeDocumentMoniker": "CalculadoraMatematicas\\Program.cs",
               "ToolTip": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Program.cs",
               "RelativeToolTip": "CalculadoraMatematicas\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T23:54:56.248Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedHeight": 137,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
