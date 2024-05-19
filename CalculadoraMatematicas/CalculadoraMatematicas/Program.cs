@@ -13,7 +13,8 @@ namespace main
         {
             string menu = """
                 1-Funcion Lineal
-                2-Salir
+                2-suma
+                3-Salir
                 """;
             Console.WriteLine(menu);
         }
@@ -21,13 +22,54 @@ namespace main
 
         static void Main(string[] args) 
         {
-            menu();
+            while (true)
+            {
+                menu();
+                int opcion = Convert.ToInt32(Console.ReadLine());
+                if (opcion == 3)
+                {
+                    break;
+                }
+                else if (opcion == 1)
+                {
+                    Console.WriteLine("Balores de OP 1");
+                    Console.WriteLine("x:");
+                    Decimal xop1 = Convert.ToDecimal(Console.ReadLine());
+                    Console.WriteLine("y:");
+                    Decimal yop1 = Convert.ToDecimal(Console.ReadLine());
 
-           
+                    Console.WriteLine("Balores de OP 2");
+                    Console.WriteLine("x:");
+                    Decimal xop2 = Convert.ToDecimal(Console.ReadLine());
+                    Console.WriteLine("y:");
+                    Decimal yop2 = Convert.ToDecimal(Console.ReadLine());
 
-            Suma suma = new Suma(1,1);
 
-            suma.sumar();
+
+
+
+                    SEL operacion = new SEL(xop1, yop1 , xop2, yop2);
+
+                    operacion.calcularEcuacuacionLineal();
+
+
+
+
+                    if (2*3 == 3 * 2) { }
+
+
+
+
+
+                }
+                else if (opcion == 2)
+                {
+                    Suma suma = new Suma(1, 1);
+
+                    suma.sumar();
+                }
+            }
+
      
 
             Console.WriteLine("END 0");
