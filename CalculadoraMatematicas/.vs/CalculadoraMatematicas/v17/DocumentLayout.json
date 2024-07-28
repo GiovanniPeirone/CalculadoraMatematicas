@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|d:\\github\\calculadoramatematicas\\calculadoramatematicas\\calculadoramatematicas\\sel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|solutionrelative:calculadoramatematicas\\sel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|d:\\github\\calculadoramatematicas\\calculadoramatematicas\\calculadoramatematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|solutionrelative:calculadoramatematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|d:\\github\\calculadoramatematicas\\calculadoramatematicas\\calculadoramatematicas\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|solutionrelative:calculadoramatematicas\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,43 +13,17 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 207,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 183,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SEL.cs",
-              "DocumentMoniker": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\SEL.cs",
-              "RelativeDocumentMoniker": "CalculadoraMatematicas\\SEL.cs",
-              "ToolTip": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\SEL.cs",
-              "RelativeToolTip": "CalculadoraMatematicas\\SEL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T23:46:34.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Suma.cs",
-              "DocumentMoniker": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Suma.cs",
-              "RelativeDocumentMoniker": "CalculadoraMatematicas\\Suma.cs",
-              "ToolTip": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Suma.cs",
-              "RelativeToolTip": "CalculadoraMatematicas\\Suma.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T22:18:38.839Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 193,
+          "DockedWidth": 217,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -70,13 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Program.cs",
               "RelativeDocumentMoniker": "CalculadoraMatematicas\\Program.cs",
-              "ToolTip": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Program.cs",
-              "RelativeToolTip": "CalculadoraMatematicas\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "ToolTip": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Program.cs*",
+              "RelativeToolTip": "CalculadoraMatematicas\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T23:54:56.248Z",
               "EditorCaption": ""

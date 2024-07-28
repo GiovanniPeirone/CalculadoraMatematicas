@@ -22,6 +22,9 @@ namespace main
 
         static void Main(string[] args) 
         {
+            
+
+
             while (true)
             {
                 menu();
@@ -65,7 +68,6 @@ namespace main
                 else if (opcion == 2)
                 {
                     Suma suma = new Suma(1, 1);
-
                     suma.sumar();
                 }
             }
